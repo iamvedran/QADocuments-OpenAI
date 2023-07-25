@@ -1,0 +1,17 @@
+{
+  "name": "qadocuments-openai",
+  "version": "1.0.0",
+  "description": "Sample chat over a document",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedran",
+  "license": "free",
+  "devDependencies": {
+    "depcheck": "^1.4.3",
+    "eslint": "^8.45.0"
+  }
+}
